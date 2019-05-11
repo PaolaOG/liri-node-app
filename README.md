@@ -19,3 +19,6 @@ node liri.js movie-this 'High School Musical'
 
 ###### you can find screenshots on how liri looks and works on the file called "screen shots".
 
+
+###### The only thing that needs to be fix and that i had trouble with, is with the command "spotify-this-song". When you use the command the only thing that it dispalys is "This is loaded".
+
