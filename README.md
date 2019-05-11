@@ -17,3 +17,5 @@
 ### Example:
 node liri.js movie-this 'High School Musical'
 
+###### you can find screenshots on how liri looks and works on the file called "screenshots".
+
